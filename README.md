@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 📝 I regularly write articles on [https://medium.com/@sbstfrnndz1](https://medium.com/@sbstfrnndz1)
+- 📝 I'm starting to write articles on [https://medium.com/@sbstfrnndz1](https://medium.com/@sbstfrnndz1)
 
 - 📫 How to reach me **sbstfrnndz1@gmail.com**
 
